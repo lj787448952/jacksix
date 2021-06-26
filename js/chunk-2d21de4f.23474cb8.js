@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21de4f"],{d2f1:function(n,e,t){"use strict";t.r(e);var c=t("7a23");function u(n,e){return Object(c["t"])(),Object(c["e"])("h1",null,"單一產品頁面")}const d={};d.render=u;e["default"]=d}}]);
+//# sourceMappingURL=chunk-2d21de4f.23474cb8.js.map
